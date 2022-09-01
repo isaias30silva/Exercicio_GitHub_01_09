@@ -4,8 +4,9 @@ Exercicio da aula de GitHub do Prof Danilo
     dentro do arquivo colocar um html com uma tabela contendo as seguintes informações
     Coloque pelo menos 3 alunos na tabela
     nome   matricula   escola
-    Lucas  001         Gama
+    Lucas  0010        Gama
     Isaias 0001        IBM
+    Marcele 1234       IBM
 
 2 - criar um arquivo index.html
     contendo um estilo em css para formatar a tabela
