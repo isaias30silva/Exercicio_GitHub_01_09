@@ -7,7 +7,7 @@ header {
     border-bottom: 1px solid  #e5e5e5;
 }
 
-footer {
+footer p {
     display: flex;
     justify-content: center;
     border-top: 1px solid #e5e5e5;
