@@ -1,0 +1,8 @@
+header {
+    display: flex;
+    font-size: 25px;
+    font-weight: 700;
+    justify-content: center;
+    background-color: #ffffff;
+    border-bottom: 1px solid  #e5e5e5;
+}
